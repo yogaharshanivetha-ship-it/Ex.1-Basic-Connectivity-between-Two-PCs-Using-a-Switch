@@ -1,5 +1,5 @@
 ## Ex. No 1. 	Basic Connectivity between Two PCs Using a Switch
-# Date : 		
+# Date :15.10.2026	
 
 # Objective
 
@@ -11,6 +11,7 @@ ________________________________________
 •	Optional: Wireless Router, Server, Cloud
 ________________________________________
 # Network Topology Diagram
+<img width="1917" height="1078" alt="Screenshot 2026-10-15 172834" src="https://github.com/user-attachments/assets/7cf3bb36-447d-4987-ae59-7510c2f131c7" />
 
 Insert the network topology from Packet Tracer (Screenshot or drawing)
 
@@ -39,6 +40,11 @@ For Router Configuration (CLI):<br>
 
 ________________________________________
 # Output (Screenshots / Ping Results)
+<img width="1917" height="1078" alt="Screenshot 2026-10-15 172053" src="https://github.com/user-attachments/assets/a67e5b6f-3f3f-4303-934c-fac809db758e" />
+<img width="1917" height="1075" alt="Screenshot 2026-10-15 172111" src="https://github.com/user-attachments/assets/0496f499-1d31-41d7-810c-78cc7561bc43" />
+
+# Ping:
+<img width="1411" height="960" alt="Screenshot 2026-10-15 172551" src="https://github.com/user-attachments/assets/c894a082-d663-4cc6-9511-9649f4d71332" />
 
 Insert screenshots showing ping success, configuration, or simulation results.
 ________________________________________
